@@ -1,0 +1,12 @@
+.haremo-image-wrapper {
+  margin: 10px;
+}
+
+.haremo-image-wrapper img {
+  width: 100%;
+  border: 1px solid black;
+}
+
+.haremo-refresh-button .dashicons {
+  padding-top: 3px;
+}
